@@ -8,7 +8,7 @@ Este repositório documenta o modelo de dados utilizado para gerenciar clientes,
 ### 🎯 Objetivo:
 O modelo de dados foi desenvolvido para garantir agilidade, organização e precisão no gerenciamento de pedidos, desde o pagamento até a entrega, proporcionando uma experiência otimizada para os clientes.
 
---
+---
 
 ### 🏢 Cliente PJ e PF
 
@@ -16,7 +16,7 @@ Cada conta pode ser Pessoa Jurídica (PJ) 🏢 ou Pessoa Física (PF) 👤.
 
 Uma conta não pode conter ambas as informações simultaneamente ❌.
 
---
+---
 
 ### 💳 Pagamento
 
@@ -28,7 +28,7 @@ Suporta pagamentos via:
 💵 Boleto
 📲 Pix
 
---
+---
 
 ### 📦 Entrega
 
